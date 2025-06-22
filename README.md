@@ -5,12 +5,12 @@ Experienced also in Desktop App, Console App, Mobile App development and Also in
 
 ## 🛠️ Tech Focus
 
-- **Languages**: Rust, Go, TypeScript, PHP, SQL
-- **Frameworks**: NestJS, TypeORM, Prisma, Hono, Bootstrap, React
-- **Blockchain**: Solidity, Gnosis, UMA, Solana (Anchor), Ethereum JSON-RPC
-- **Databases**: PostgreSQL, MySQL
-- **Other Tools**: MinIO, Docker, VS Code, Git
-
+- **Languages**: C/C++, Rust, Go, C#, TypeScript, PHP, Python, SQL
+- **Frameworks**: Echo, chi, NodeJS, NestJS, NextJS, Hono, Django, FastAPI, Flask, Laravel, ASP.NET 
+- **Blockchain**: Solidity, Ethereum JSON-RPC, Solana (Anchor), Gnosis, UMA
+- **Databases**: PostgreSQL, MySQL, SQLite, MongoDB, TypeORM, Prisma
+- **Other Tools**: Android Studio, Mono4Android, Basic4Andoird, Telegram Bot, MinIO, Docker
+- **Frontend Frameworks**: React.JS, Angular.JS, Vue.JS
 ## 🧠 Projects & Interests
 
 ### 🗳️ Prediction Markets
