@@ -52,4 +52,4 @@ I prefer expressive, low-abstraction code and work best when I'm close to the me
 ## 🔗 Also Find Me On
 - 🔁 Secondary GitHub: [pydea-rs](https://github.com/pydea-rs)
 ## 🔗 And Also
-- 🔁 GitHub: [pydea-rs](https://github.com/pa-ya)
+- 🔁 GitHub: [pa-ya](https://github.com/pa-ya)
